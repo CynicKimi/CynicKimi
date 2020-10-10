@@ -1,4 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CynicKimi&show_icons=true)
+
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CynicKimi&show_icons=true)-->
+![demo]( https://visitor-badge.glitch.me/badge?page_id=779e9065-9e8c-4364-8c3d-3f2416fa403a)
 
 <!--
 **CynicKimi/CynicKimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
